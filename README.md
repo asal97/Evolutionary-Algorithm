@@ -1,2 +1,2 @@
 # Evolutionary-Algorithm
-Computational Intelligence (first project)
+Computational Intelligence (second project)
