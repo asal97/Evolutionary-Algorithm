@@ -5,10 +5,10 @@ Created on Sat Dec  8 10:16:07 2018
 @author: 8.1
 """
 import numpy as np
-
-np.random.seed(75)
 import random
 import math
+
+np.random.seed(75)
 
 
 class chromosome():
@@ -451,13 +451,3 @@ def PSM(population, p):
             j = random.randint(0, len(population))
             population[i], population[j] = population[j], population[i]
     return population
-
-
-
-
-
-
-
-
-
-
