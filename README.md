@@ -24,20 +24,20 @@ Computational Intelligence (second project)
   * [Initialization](#Initialization)
     * [Chromosome](#Chromosome)
     * [Population](#Population)
+  * [selection](#selection)
   * [Crossover](#Crossover)
   * [Mutation](#Mutation)
 * [Contributers](#contributers)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-In this assignment,we implemented main parts of genetic algorithms. <br>
-we've implemented few of the famous genetic algorithms based on submitted research papers concluded below. 
-<br><br>
-This assignment includes these parts:
+In this assignment, we've implemented few of the famous genetic algorithms based on submitted research papers concluded below. <br>
+
+which includes:
 1. [Initialization](#Initialization) (Population and Chromosome)
-2. Selection Methods
-3. Crossover Methods
-4. Mutation Methods
+2. [selection](#selection) Methods
+3. [Crossover](#Crossover) Methods
+4. [Mutation](#Mutation) Methods
  
 ## Initialization
 In this step we talk about initializing chromosomes and population.
